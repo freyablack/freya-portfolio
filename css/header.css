@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url(../assets/background.jpg);
+    background-position: 50% 90%;
+    background-size: cover;
+    height: 30vh;
+    color: black;
+    margin-bottom: 70px;
+}
+
+.lead{
+    font-size: 20pt;
+    font-weight: 700;
+}
+
+html{
+    scroll-behavior: smooth;
+}

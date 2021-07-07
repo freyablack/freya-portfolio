@@ -1,0 +1,31 @@
+#about-me{
+    padding-bottom: 150px;
+    padding-top: 100px;
+}
+
+.about-me-title{
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 36pt;
+    text-decoration: underline;
+}
+
+#about-me p{
+    margin-top: 15px;
+    text-indent: 40px;
+}
+
+.me{
+    float: right;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin-right: 50px;
+}
+
+.col-6{
+    margin-left: 50px;
+    padding: 1em;
+    font-size: 15pt;
+}

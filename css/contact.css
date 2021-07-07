@@ -1,0 +1,52 @@
+#fs-frm{
+    display: flex;
+    border: solid 1px black;
+    width: 50%;
+    flex-flow: column;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+
+#fs-frm-inputs{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+#full-name{
+    width: 300px;
+}
+
+#email-address{
+    width: 300px;
+}
+
+#message{
+    width: 300px;
+}
+
+.submit-button{
+    margin-top: 10px;
+}
+
+.contact-container{
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    margin-top: 100px;
+}
+
+.resume{
+    display: flex;
+    justify-content: center;
+    margin-bottom: -100px;
+}
+
+.resume-download{
+    border-radius: 15px;
+    background: rgba(0, 255, 179, 0.2);
+    font-weight: 600;
+}
