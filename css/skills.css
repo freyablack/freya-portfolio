@@ -1,0 +1,109 @@
+#skills-title{
+  text-align: center;
+}
+
+#skill-logos{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 60%;
+}
+
+
+.html-logo{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 30px;
+}
+
+.css-logo{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.javascript-logo{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.typescript-logo{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.git-logo{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.sql-logo{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.nodejs-logo{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.react-logo{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.bootstrap-logo{
+  display: flex;
+  height: 100px;
+  width: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.figma-logo{
+  display: flex;
+  height: 100px;
+  width: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.wireframing-logo{
+  display: flex;
+  height: 100px;
+  width: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.camera-logo{
+  display: flex;
+  height: 100px;
+  width: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
